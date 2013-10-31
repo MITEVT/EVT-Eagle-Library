@@ -1138,30 +1138,30 @@ Source: http://www.rfsolutions.co.uk/acatalog/DS601-4.pdf</description>
 <pin name="CA" x="5.08" y="-10.16" visible="pad" length="middle" rot="R90"/>
 </symbol>
 <symbol name="ATTINY*61A">
-<wire x1="-22.86" y1="20.32" x2="-22.86" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="-22.86" y1="-20.32" x2="10.16" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="10.16" y1="-20.32" x2="10.16" y2="20.32" width="0.254" layer="94"/>
-<wire x1="10.16" y1="20.32" x2="-22.86" y2="20.32" width="0.254" layer="94"/>
-<pin name="VCC" x="-27.94" y="17.78" length="middle"/>
-<pin name="GND" x="-27.94" y="-15.24" length="middle"/>
-<pin name="AGND" x="-27.94" y="-17.78" length="middle"/>
-<pin name="AVCC" x="-27.94" y="15.24" length="middle"/>
-<pin name="PA3(AREF)" x="-27.94" y="2.54" length="middle"/>
-<pin name="PB4(XTAL1)" x="-27.94" y="-5.08" length="middle"/>
-<pin name="PB5(XTAL2)" x="-27.94" y="-10.16" length="middle"/>
-<pin name="PB7(RESET)" x="-27.94" y="10.16" length="middle" function="dot"/>
-<pin name="PA0(ADC0)" x="15.24" y="17.78" length="middle" rot="R180"/>
-<pin name="PA1(ADC1)" x="15.24" y="15.24" length="middle" rot="R180"/>
-<pin name="PA2(ADC2)" x="15.24" y="12.7" length="middle" rot="R180"/>
-<pin name="PA5(ADC4)" x="15.24" y="7.62" length="middle" rot="R180"/>
-<pin name="PA4(ADC3)" x="15.24" y="10.16" length="middle" rot="R180"/>
-<pin name="PA6(ADC5)" x="15.24" y="5.08" length="middle" rot="R180"/>
-<pin name="PA7(ADC6)" x="15.24" y="2.54" length="middle" rot="R180"/>
-<pin name="PB0(MOSI/SDA)" x="15.24" y="-5.08" length="middle" rot="R180"/>
-<pin name="PB1(MISODO)" x="15.24" y="-7.62" length="middle" rot="R180"/>
-<pin name="PB3" x="15.24" y="-12.7" length="middle" rot="R180"/>
-<pin name="PB6(ADC9)" x="15.24" y="-15.24" length="middle" rot="R180"/>
-<pin name="PB2(SCK)" x="15.24" y="-10.16" length="middle" rot="R180"/>
+<wire x1="-17.78" y1="20.32" x2="-17.78" y2="-20.32" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="-20.32" x2="15.24" y2="-20.32" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-20.32" x2="15.24" y2="20.32" width="0.254" layer="94"/>
+<wire x1="15.24" y1="20.32" x2="-17.78" y2="20.32" width="0.254" layer="94"/>
+<pin name="VCC" x="-22.86" y="17.78" length="middle"/>
+<pin name="GND" x="-22.86" y="-15.24" length="middle"/>
+<pin name="AGND" x="-22.86" y="-17.78" length="middle"/>
+<pin name="AVCC" x="-22.86" y="15.24" length="middle"/>
+<pin name="PA3(AREF)" x="-22.86" y="2.54" length="middle"/>
+<pin name="PB4(XTAL1)" x="-22.86" y="-5.08" length="middle"/>
+<pin name="PB5(XTAL2)" x="-22.86" y="-10.16" length="middle"/>
+<pin name="PB7(RESET)" x="-22.86" y="10.16" length="middle" function="dot"/>
+<pin name="PA0(ADC0)" x="20.32" y="17.78" length="middle" rot="R180"/>
+<pin name="PA1(ADC1)" x="20.32" y="15.24" length="middle" rot="R180"/>
+<pin name="PA2(ADC2)" x="20.32" y="12.7" length="middle" rot="R180"/>
+<pin name="PA5(ADC4)" x="20.32" y="7.62" length="middle" rot="R180"/>
+<pin name="PA4(ADC3)" x="20.32" y="10.16" length="middle" rot="R180"/>
+<pin name="PA6(ADC5)" x="20.32" y="5.08" length="middle" rot="R180"/>
+<pin name="PA7(ADC6)" x="20.32" y="2.54" length="middle" rot="R180"/>
+<pin name="PB0(MOSI/SDA)" x="20.32" y="-5.08" length="middle" rot="R180"/>
+<pin name="PB1(MISODO)" x="20.32" y="-7.62" length="middle" rot="R180"/>
+<pin name="PB3" x="20.32" y="-12.7" length="middle" rot="R180"/>
+<pin name="PB6(ADC9)" x="20.32" y="-15.24" length="middle" rot="R180"/>
+<pin name="PB2(SCK)" x="20.32" y="-10.16" length="middle" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
